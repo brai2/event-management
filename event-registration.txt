@@ -1,2 +1,3 @@
 Event Registration Feature
 Created for group project
+Add registration logic
